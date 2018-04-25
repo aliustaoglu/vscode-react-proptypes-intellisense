@@ -5,3 +5,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 - Initial release
+
+0.0.3
+Fix issue #2 : https://github.com/aliustaoglu/vscode-react-proptypes-intellisense/issues/2
