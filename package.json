@@ -2,7 +2,7 @@
   "name": "vscode-react-proptypes-intellisense",
   "displayName": "vscode-react-proptypes-intellisense",
   "description": "Generates the comment metadata to provide intellisense for prop types in React",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "cuneyt-aliustaoglu",
   "engines": {
     "vscode": "^1.20.0"
