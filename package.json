@@ -2,14 +2,19 @@
   "name": "vscode-react-proptypes-intellisense",
   "displayName": "vscode-react-proptypes-intellisense",
   "description": "Generates the comment metadata to provide intellisense for prop types in React",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "publisher": "cuneyt-aliustaoglu",
   "engines": {
     "vscode": "^1.20.0"
   },
   "icon": "proptypes-intellisense.png",
-  "categories": ["Snippets"],
-  "activationEvents": ["onCommand:aliustaoglu.proptypesIntellisense"],
+  "categories": [
+    "Snippets"
+  ],
+  "activationEvents": [
+    "onCommand:aliustaoglu.proptypesIntellisense"
+  ],
   "main": "./extension",
   "contributes": {
     "commands": [
